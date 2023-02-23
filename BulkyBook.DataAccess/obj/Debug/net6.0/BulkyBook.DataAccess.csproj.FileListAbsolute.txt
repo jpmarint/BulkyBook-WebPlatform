@@ -1,0 +1,17 @@
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\Dani\OneDrive\Escritorio\Peakr\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
